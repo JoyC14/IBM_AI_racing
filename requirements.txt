@@ -1,0 +1,4 @@
+# Project Dependencies
+# This bot uses Python Standard Libraries. 
+# Compatible with Python 3.8, 3.9, 3.10+
+# Requirement: TORCS Simulator with SCR Plugin
