@@ -29,6 +29,8 @@ Instead of simple heuristics, the logic is segmented into:
 * **Throttle:** Traction-controlled acceleration to prevent power-sliding out of corners.
 * **Gears:** An RPM-based shifting logic (up-shift at 9200 RPM, down-shift at 3800 RPM).
 
+## 🏎️ Racing Demo
+![Autonomous Driving on Corkscrew](docs/IBM_racecar_300126 - Compressed with FlexClip.mp4)
 
 
 ## 📂 Project Structure
