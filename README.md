@@ -30,7 +30,10 @@ Instead of simple heuristics, the logic is segmented into:
 * **Gears:** An RPM-based shifting logic (up-shift at 9200 RPM, down-shift at 3800 RPM).
 
 ## 🏎️ Racing Demo
-<video src="docs/IBM_racecar.mp4" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/180f9663-7b55-472c-aefe-fe0e8bb8d2eb" width="100%" controls autoplay loop muted></video>
+
+
+
 
 
 ## 📂 Project Structure
