@@ -30,7 +30,7 @@ Instead of simple heuristics, the logic is segmented into:
 * **Gears:** An RPM-based shifting logic (up-shift at 9200 RPM, down-shift at 3800 RPM).
 
 ## 🏎️ Racing Demo
-![Autonomous Driving on Corkscrew](IBM_racecar.mp4)
+<video src="docs/IBM_racecar.mp4" width="100%" controls autoplay loop muted></video>
 
 
 ## 📂 Project Structure
